@@ -1,2 +1,2 @@
 # SingleAxisReacionWheel
-Arduino code to run a single axist attitude controller
+Arduino code to run a single axis attitude controller
